@@ -1,0 +1,131 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 0.0,
+            "end": 68.3,
+            "text": " In this video, I will tell you what are ID and classes.  The concept of ID and classes is one of the concepts that are confused.  In fact, when I was learning HTML in my early days, I was confused in the ID and classes.  ID means unique identifier.  If you give an ID to an element, you will not give it to another element.  But the meaning of the class is that if you want to give multiple elements to a property,  you will give it multiple classes.  For example, you can give a class called red, a div, and a form.  Similarly, you can give an article tag or header tag for the class called bg red.  Do like this video because we will go into the computer screen and we will see these things very closely.  Let's roll the intro.  I am back and if you have not accessed the Sigma Web Development course, then access the playlist.  Click here and save the bookmark.  The source code is also being uploaded on GitHub.  I will come here in the folder and make a folder of video number 9."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 68.3,
+            "end": 120.3,
+            "text": " I will make a folder of video number 9 and after making a folder of video number 9, I will click shift and open it.  You can see that this code is open in BS code.  I will write index.html here and enter the exclamation mark.  Now I will tell you what are the ID and classes.  You will have a basic card or not?  If you do not have any ID, then you will have no ID.  Do not write in the comment that I do not have ID.  If you go to any place, then you have to show ID.  In some of the cases, to prove your identity.  I am here.  Now if you want to understand ID and classes in the restaurant, then the ID is your identity.  So listen to the story here.  This is John and this is Harry.  They are very good friends.  They are very good friends."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 120.3,
+            "end": 174.3,
+            "text": " They do not share their lunch and the rest are very good friends.  They do not share their lunch and the rest are friends.  Now you can see that John and Harry have their own ID.  So this is my ID and John's ID looks like this.  So this is John's ID and this is my ID.  Both of us have the same ID.  If you consider that our friend is my friend, Tania and John's friend is Shruti.  So their ID will be different.  This is Tania's ID.  This is Tania's ID.  This ID will be different for every person.  John and Harry were friends.  John's ID is Shruti's ID.  This is Tania's ID.  None of these 4 have the same ID."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 174.3,
+            "end": 236.3,
+            "text": " If you know any of these numbers, you will understand that it is Harry's ID.  If I say that it is Shruti's ID.  If I say that it is Shruti's ID.  So you will understand that it is Tania's ID.  So this ID is unique for Tania, Harry, Shruti and John.  So this is their ID and this ID will be different for everyone.  Also John and Harry were friends.  And the name of the class was class 10.  Both of them are in class 10.  So let's say that it is Shruti's class 9.  And Tania is in class 9.  Both are in class 9.  Tania is in class 9 and Shruti is in class 9.  So what is Shruti's class 9?  Tania's class 9 can be 9."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 236.3,
+            "end": 274.3,
+            "text": " Shruti will have to study alone in class 9.  Or Harry will have to study alone in class 10.  And children also study in class 9.  So class means that in one class Harry and John are.  So can a person have multiple classes?  A person can have multiple classes.  For example, Harry's class is in class 10.  And this goes to a tuition where this class is in class 10A.  Even in Malo's tuition there are classes.  So more than one class can have.  One class is 10A and one class is 10A.  And along with that Malo wears a red T-shirt.  So his class is red too.  So class doesn't mean that he is going to study.  Class means that he is classified in this class."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 274.3,
+            "end": 303.3,
+            "text": " Now come here.  Leave John and Harry Shruti.  Okay, let me delete this.  I will zoom out and delete it.  Now come to index.htm and understand this.  Malo, I have made a div here.  And I have given it a class red.  And I have made a span.  And I have given it a class red.  I can give different elements of the classes.  Or I can give the same class.  But if I want to add an id in any element.  Malo, I have added an id.  This is the first div.  I can add anything in the id."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 303.3,
+            "end": 344.3,
+            "text": " So this id is not given to any other element.  Because this is the basis of this element.  If the other div is also there, then it can't be added.  Even then I will have to add something else.  I have added the second div.  And I write the second and I write the first.  So this concept of id and classes.  I personally understood it.  When I was learning web development in my early days.  I did not tell anyone that id unilkly identifies an element.  And the class can be applied in multiple classes in one element.  And one class can be applied in multiple elements.  For example, if I give it a red class.  I can give it a bg yellow class.  I can give it a class."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 344.3,
+            "end": 378.3,
+            "text": " And if we give a class in multiple elements.  Then we will add a space.  For example, if I want to add multiple classes in this element.  Then what will I do?  First I will write red here.  Then I will write bg yellow in space.  So in this way I can give multiple classes.  The same element.  Can I give the same element a multiple id?  Have you ever heard of someone's 2,000 cards?  I don't know if anyone has made it or not.  But it is not the ideal card.  The ideal number is one person.  And the ideal number cannot be the same as a different person.  One person cannot have multiple cards."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 378.3,
+            "end": 408.3,
+            "text": " And a different person cannot have the same card.  But the class.  If I say which color t-shirt you wear.  Or you can wear a red color t-shirt.  It is not a problem.  If you go on the road.  And if you like mangoes or bananas.  Or if you like grapes.  Or if you like grapes.  Or if you like grapes.  Or if you like mango.  Then you can classify in one class.  And we can give different elements to one class.  So I hope you understood this.  Now I will write CSS."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 408.3,
+            "end": 433.3,
+            "text": " And don't say that you are not studying.  What I am writing in CSS.  You can understand it.  I am writing some alien language.  In style.  But I am trying to make a point.  I will click here.  And here its preview is like this.  First and second.  I will show you one thing.  One class is in CSS.  How do we target?  We will make a dot.  Dot red means red class.  And hash first div."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 433.3,
+            "end": 457.3,
+            "text": " Hash means ID.  Dot means class.  Okay.  If I say that the first div.  Color the background of it red.  Okay.  So if you color the background of first div.  It will be red.  These are the selectors in CSS.  And now I don't want to confuse you.  And I can comment like this in CSS.  Okay.  But we will have to read all these things.  Now what I will do after doing dot red.  I will write background color red."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 457.3,
+            "end": 484.3,
+            "text": " And what I will do in dot bg yellow.  Dot bg yellow will be my.  I have to put dot.  Dot means class.  It means class bg yellow.  And I will yellow the background color.  Sorry.  I will color it red.  I will not color it.  Dot red means color is red.  Look its color is red.  And background color is yellow.  So this is how you can use id and classes in CSS.  I hope you have understood something.  Now one thing that you have to note here is that"
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 484.3,
+            "end": 516.3,
+            "text": " the id and classes are attributes of the element.  This is id attribute and this is class attribute.  So what are the id and classes?  Are they elements or not?  They are attributes of elements.  Now there is one more use of id.  I will tell you what is the use of id.  If I take you to Wikipedia and write the coding.  So this page of Wikipedia.  I will go to some other page.  So you can see that when you go to any page on Wikipedia.  So what can you do?  You can take the link of that particular place.  I will show you how it happens.  I go to some other page."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 516.3,
+            "end": 544.3,
+            "text": " I scroll down.  And here I will inspect.  I will see its id.  This is its id.  So I will copy it in its id.  And if I put here hashtag and this id.  Now I will enter.  So it will directly take me here.  In icda8.  So you see if I put it in incognito.  It will scroll me and show that particular id.  You see it will scroll me.  Instead of showing me this.  It will scroll me and show me.  Because it wants to bring me to this id."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 544.3,
+            "end": 568.3,
+            "text": " So it works in linking.  So it is id.  Keep this in mind.  You will know that many people can generate links.  If you write id in any link.  When you open that link.  You will see the id.  Like in this case.  You can see that as soon as I am entering.  So maybe I made the id wrong.  You got the point.  You got the point.  29.29.  And I will enter it.  So you see I have come down."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 568.3,
+            "end": 593.3,
+            "text": " I will open incognito.  Or reload it.  So you see I have come down.  I will scroll it.  And after that I will open the new tab.  And I will do this.  See it is scrolling me and showing me.  This id is on the page.  So I hope you have understood id and classes.  From this video's medium.  Id means like half card.  Class means like one person's property.  Like he likes red.  Or which class he is in.  You can give multiple classes to this element."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 593.3,
+            "end": 618.3,
+            "text": " One element can be red color.  And its background can be yellow.  And the other element can be red and background can be yellow.  So red class can be put on multiple elements.  You can put red class on fake element.  And you can put red class in one element.  You can put BG yellow class.  So I hope you have understood.  So for now this video is enough.  I was reading captions and I got laughing.  I read captions.  So I told him that all the villagers are calling me.  And I heard this thing.  I laughed 5-10 times.  It was very tasty."
+        },
+        {
+            "number": "9",
+            "title": "Id & Classes in HTML.mp3",
+            "start": 618.3,
+            "end": 650.3,
+            "text": " I said access.  Name your village and mine.  So on this, access the playlist.  Access the GitHub.  Like the video.  Write the hashtag sigma batch op in the comment section.  Thank you so much for watching this video.  And I will see you next time.  ."
+        }
+    ],
+    "text": " In this video, I will tell you what are ID and classes. The concept of ID and classes is one of the concepts that are confused. In fact, when I was learning HTML in my early days, I was confused in the ID and classes. ID means unique identifier. If you give an ID to an element, you will not give it to another element. But the meaning of the class is that if you want to give multiple elements to a property, you will give it multiple classes. For example, you can give a class called red, a div, and a form. Similarly, you can give an article tag or header tag for the class called bg red. Do like this video because we will go into the computer screen and we will see these things very closely. Let's roll the intro. I am back and if you have not accessed the Sigma Web Development course, then access the playlist. Click here and save the bookmark. The source code is also being uploaded on GitHub. I will come here in the folder and make a folder of video number 9. I will make a folder of video number 9 and after making a folder of video number 9, I will click shift and open it. You can see that this code is open in BS code. I will write index.html here and enter the exclamation mark. Now I will tell you what are the ID and classes. You will have a basic card or not? If you do not have any ID, then you will have no ID. Do not write in the comment that I do not have ID. If you go to any place, then you have to show ID. In some of the cases, to prove your identity. I am here. Now if you want to understand ID and classes in the restaurant, then the ID is your identity. So listen to the story here. This is John and this is Harry. They are very good friends. They are very good friends. They do not share their lunch and the rest are very good friends. They do not share their lunch and the rest are friends. Now you can see that John and Harry have their own ID. So this is my ID and John's ID looks like this. So this is John's ID and this is my ID. Both of us have the same ID. If you consider that our friend is my friend, Tania and John's friend is Shruti. So their ID will be different. This is Tania's ID. This is Tania's ID. This ID will be different for every person. John and Harry were friends. John's ID is Shruti's ID. This is Tania's ID. None of these 4 have the same ID. If you know any of these numbers, you will understand that it is Harry's ID. If I say that it is Shruti's ID. If I say that it is Shruti's ID. So you will understand that it is Tania's ID. So this ID is unique for Tania, Harry, Shruti and John. So this is their ID and this ID will be different for everyone. Also John and Harry were friends. And the name of the class was class 10. Both of them are in class 10. So let's say that it is Shruti's class 9. And Tania is in class 9. Both are in class 9. Tania is in class 9 and Shruti is in class 9. So what is Shruti's class 9? Tania's class 9 can be 9. Shruti will have to study alone in class 9. Or Harry will have to study alone in class 10. And children also study in class 9. So class means that in one class Harry and John are. So can a person have multiple classes? A person can have multiple classes. For example, Harry's class is in class 10. And this goes to a tuition where this class is in class 10A. Even in Malo's tuition there are classes. So more than one class can have. One class is 10A and one class is 10A. And along with that Malo wears a red T-shirt. So his class is red too. So class doesn't mean that he is going to study. Class means that he is classified in this class. Now come here. Leave John and Harry Shruti. Okay, let me delete this. I will zoom out and delete it. Now come to index.htm and understand this. Malo, I have made a div here. And I have given it a class red. And I have made a span. And I have given it a class red. I can give different elements of the classes. Or I can give the same class. But if I want to add an id in any element. Malo, I have added an id. This is the first div. I can add anything in the id. So this id is not given to any other element. Because this is the basis of this element. If the other div is also there, then it can't be added. Even then I will have to add something else. I have added the second div. And I write the second and I write the first. So this concept of id and classes. I personally understood it. When I was learning web development in my early days. I did not tell anyone that id unilkly identifies an element. And the class can be applied in multiple classes in one element. And one class can be applied in multiple elements. For example, if I give it a red class. I can give it a bg yellow class. I can give it a class. And if we give a class in multiple elements. Then we will add a space. For example, if I want to add multiple classes in this element. Then what will I do? First I will write red here. Then I will write bg yellow in space. So in this way I can give multiple classes. The same element. Can I give the same element a multiple id? Have you ever heard of someone's 2,000 cards? I don't know if anyone has made it or not. But it is not the ideal card. The ideal number is one person. And the ideal number cannot be the same as a different person. One person cannot have multiple cards. And a different person cannot have the same card. But the class. If I say which color t-shirt you wear. Or you can wear a red color t-shirt. It is not a problem. If you go on the road. And if you like mangoes or bananas. Or if you like grapes. Or if you like grapes. Or if you like grapes. Or if you like mango. Then you can classify in one class. And we can give different elements to one class. So I hope you understood this. Now I will write CSS. And don't say that you are not studying. What I am writing in CSS. You can understand it. I am writing some alien language. In style. But I am trying to make a point. I will click here. And here its preview is like this. First and second. I will show you one thing. One class is in CSS. How do we target? We will make a dot. Dot red means red class. And hash first div. Hash means ID. Dot means class. Okay. If I say that the first div. Color the background of it red. Okay. So if you color the background of first div. It will be red. These are the selectors in CSS. And now I don't want to confuse you. And I can comment like this in CSS. Okay. But we will have to read all these things. Now what I will do after doing dot red. I will write background color red. And what I will do in dot bg yellow. Dot bg yellow will be my. I have to put dot. Dot means class. It means class bg yellow. And I will yellow the background color. Sorry. I will color it red. I will not color it. Dot red means color is red. Look its color is red. And background color is yellow. So this is how you can use id and classes in CSS. I hope you have understood something. Now one thing that you have to note here is that the id and classes are attributes of the element. This is id attribute and this is class attribute. So what are the id and classes? Are they elements or not? They are attributes of elements. Now there is one more use of id. I will tell you what is the use of id. If I take you to Wikipedia and write the coding. So this page of Wikipedia. I will go to some other page. So you can see that when you go to any page on Wikipedia. So what can you do? You can take the link of that particular place. I will show you how it happens. I go to some other page. I scroll down. And here I will inspect. I will see its id. This is its id. So I will copy it in its id. And if I put here hashtag and this id. Now I will enter. So it will directly take me here. In icda8. So you see if I put it in incognito. It will scroll me and show that particular id. You see it will scroll me. Instead of showing me this. It will scroll me and show me. Because it wants to bring me to this id. So it works in linking. So it is id. Keep this in mind. You will know that many people can generate links. If you write id in any link. When you open that link. You will see the id. Like in this case. You can see that as soon as I am entering. So maybe I made the id wrong. You got the point. You got the point. 29.29. And I will enter it. So you see I have come down. I will open incognito. Or reload it. So you see I have come down. I will scroll it. And after that I will open the new tab. And I will do this. See it is scrolling me and showing me. This id is on the page. So I hope you have understood id and classes. From this video's medium. Id means like half card. Class means like one person's property. Like he likes red. Or which class he is in. You can give multiple classes to this element. One element can be red color. And its background can be yellow. And the other element can be red and background can be yellow. So red class can be put on multiple elements. You can put red class on fake element. And you can put red class in one element. You can put BG yellow class. So I hope you have understood. So for now this video is enough. I was reading captions and I got laughing. I read captions. So I told him that all the villagers are calling me. And I heard this thing. I laughed 5-10 times. It was very tasty. I said access. Name your village and mine. So on this, access the playlist. Access the GitHub. Like the video. Write the hashtag sigma batch op in the comment section. Thank you so much for watching this video. And I will see you next time. ."
+}

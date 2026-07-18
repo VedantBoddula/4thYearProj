@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Generated files
+response.txt
+prompt.txt
+output.json
+
+# Embeddings
+embeddings.joblib
+
+# Media
+videos/
+audios/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
