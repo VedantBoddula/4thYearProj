@@ -237,9 +237,9 @@ works together with CSS and JavaScript.
 ## 👨‍💻 Author
 
 **Vedant Boddula**
-Information Technology Student · MERN Stack Developer · AI Enthusiast · RAG Systems
+Information Technology Student · Data Scientist · AI Enthusiast · RAG Systems
 
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+· [LinkedIn](https://linkedin.com/in/vedant-boddula)
 
 ---
 
