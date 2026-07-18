@@ -237,6 +237,8 @@ works together with CSS and JavaScript.
 ## 👨‍💻 Author
 
 **Vedant Boddula**
+
+
 Information Technology Student · Data Scientist · AI Enthusiast · RAG Systems
 
 · [LinkedIn](https://linkedin.com/in/vedant-boddula)
